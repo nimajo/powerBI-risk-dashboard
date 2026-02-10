@@ -16,3 +16,7 @@ Fully interactive slicers for owner, risk score, likelihood, impact, and mitigat
 Clean, governance‑focused layout suitable for reporting to senior stakeholders
 
 This project demonstrates practical experience in Power BI, DAX, data modelling, and risk analytics aligned with GRC and cybersecurity practices.
+<img width="1523" height="851" alt="Screenshot 2026-02-10 202325" src="https://github.com/user-attachments/assets/27955889-02a5-4be0-97b5-6b11b76eee60" />
+<img width="1524" height="853" alt="Screenshot 2026-02-10 202351" src="https://github.com/user-attachments/assets/8e262eb8-e4d2-4a44-9793-ae76cb067de0" />
+<img width="1915" height="832" alt="Screenshot 2026-02-10 202450" src="https://github.com/user-attachments/assets/b219ee1c-6632-451b-9111-bd68dd93eca2" />
+
